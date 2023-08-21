@@ -198,6 +198,8 @@ export type Props<Route extends BaseRoute> = {
    */
   labelMaxFontSizeMultiplier?: number;
   style?: Animated.WithAnimatedValue<StyleProp<ViewStyle>>;
+  styleItems?: StyleProp<ViewStyle>;
+  styleItem?: StyleProp<ViewStyle>;
   /**
    * @optional
    */
@@ -366,6 +368,8 @@ const BottomNavigationBar = <Route extends BaseRoute>({
   inactiveColor,
   keyboardHidesNavigationBar = Platform.OS === 'android',
   style,
+  styleItem,
+  styleItems,
   labeled = true,
   animationEasing,
   onTabPress,
@@ -625,6 +629,7 @@ const BottomNavigationBar = <Route extends BaseRoute>({
             compact && {
               maxWidth: maxTabBarWidth,
             },
+            styleItems,
           ]}
           accessibilityRole={'tablist'}
           testID={`${testID}-content-wrapper`}
@@ -755,7 +760,7 @@ const BottomNavigationBar = <Route extends BaseRoute>({
               accessibilityLabel: getAccessibilityLabel({ route }),
               accessibilityRole: Platform.OS === 'ios' ? 'button' : 'tab',
               accessibilityState: { selected: focused },
-              style: [styles.item, isV3 && styles.v3Item],
+              style: [styles.item, isV3 && styles.v3Item, styleItem],
               children: (
                 <View
                   pointerEvents="none"

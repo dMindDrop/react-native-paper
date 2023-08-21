@@ -131,6 +131,7 @@ exports[`allows customizing Route's type via generics 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -160,6 +161,7 @@ exports[`allows customizing Route's type via generics 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -415,6 +417,7 @@ exports[`allows customizing Route's type via generics 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -766,6 +769,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -795,6 +799,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -1005,6 +1010,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -1198,6 +1204,7 @@ exports[`hides labels in non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -1504,6 +1511,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -1533,6 +1541,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -1743,6 +1752,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -1936,6 +1946,7 @@ exports[`hides labels in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -2374,6 +2385,7 @@ exports[`renders bottom navigation with getLazy 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -2403,6 +2415,7 @@ exports[`renders bottom navigation with getLazy 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -2732,6 +2745,7 @@ exports[`renders bottom navigation with getLazy 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -3044,6 +3058,7 @@ exports[`renders bottom navigation with getLazy 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -3356,6 +3371,7 @@ exports[`renders bottom navigation with getLazy 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -3668,6 +3684,7 @@ exports[`renders bottom navigation with getLazy 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -4093,6 +4110,7 @@ exports[`renders bottom navigation with scene animation 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -4122,6 +4140,7 @@ exports[`renders bottom navigation with scene animation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -4401,6 +4420,7 @@ exports[`renders bottom navigation with scene animation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -4663,6 +4683,7 @@ exports[`renders bottom navigation with scene animation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -4925,6 +4946,7 @@ exports[`renders bottom navigation with scene animation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -5187,6 +5209,7 @@ exports[`renders bottom navigation with scene animation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -5562,6 +5585,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -5591,6 +5615,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -5781,6 +5806,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -5954,6 +5980,7 @@ exports[`renders custom icon and label in non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -6240,6 +6267,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -6269,6 +6297,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -6446,6 +6475,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -6606,6 +6636,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -6766,6 +6797,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -6926,6 +6958,7 @@ exports[`renders custom icon and label in shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -7199,6 +7232,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -7228,6 +7262,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -7557,6 +7592,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -7869,6 +7905,7 @@ exports[`renders custom icon and label with custom colors in non-shifting bottom
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -8294,6 +8331,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -8323,6 +8361,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -8602,6 +8641,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -8864,6 +8904,7 @@ exports[`renders custom icon and label with custom colors in shifting bottom nav
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -9239,6 +9280,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -9268,6 +9310,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -9597,6 +9640,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -9909,6 +9953,7 @@ exports[`renders non-shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -10334,6 +10379,7 @@ exports[`renders shifting bottom navigation 1`] = `
                 "marginHorizontal": 0,
               },
               false,
+              undefined,
             ]
           }
           testID="bottom-navigation-bar-content-wrapper"
@@ -10363,6 +10409,7 @@ exports[`renders shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -10642,6 +10689,7 @@ exports[`renders shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -10904,6 +10952,7 @@ exports[`renders shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -11166,6 +11215,7 @@ exports[`renders shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
@@ -11428,6 +11478,7 @@ exports[`renders shifting bottom navigation 1`] = `
                 Object {
                   "paddingVertical": 0,
                 },
+                undefined,
               ]
             }
           >
